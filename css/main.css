@@ -507,14 +507,14 @@ iframe {
 ///////////////////////////////////////////////////////////
 */
 .header1 {
-  height: 85px; /*it was 125 px*/
+  height: 125px;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
 }
 
-.fixed-header {height: 80px;} /*it was 110px*/
+.fixed-header {height: 110px;}
 
 
 /*[ Header Desktop ]
@@ -536,7 +536,7 @@ iframe {
 /*[ Top bar ]
 ===========================================================*/
 .topbar {
-  height: 1px; /*It was 45 px*/
+  height: 45px;
   background-color: #f5f5f5;
   position: relative;
   display: -webkit-box;
